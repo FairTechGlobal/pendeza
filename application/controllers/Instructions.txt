@@ -1,0 +1,48 @@
+For this Project, the following should be obeyed;
+        All the project will be done through git.
+        No one is to edit the assets files unless you are adding your own.
+        You only pull from the master branch.
+        Please create a branch for each controller you are working on.
+        In case your controller needs or depends on another controller, merge with the desired controller for smooth operation
+
+        An individual works on one's controller and only one, and does not change anything in the other controllers.
+        For each controller you are working on, create a folder with the same name as the controller on the models and the views and this are the folders
+            you are to work with only.
+        No controller rather module given to an individual should be left hanging.
+        Each module should be completed in the time given lest penalties will be incurred
+
+        Naming conventions;
+            All functions should be one word (verbs)
+            All folder names should start with small letters
+            Models should start with a capital letter
+
+
+
+        The following is the order of modules;
+
+        First Phase (All User interfaces should be complete by 22nd of April 2016 upload to your git branch)
+            Packages (Mwathi)
+            Registration (Situma)
+            Configuration (manage branches and dedicate to each branch) (Tom)
+            Employees (Okoth)
+            Inventory (Wanyoike)
+
+
+            Services
+            Online booking
+            Scheduling
+            Clients
+            Billing
+            Salaries
+            Expenses
+            Report
+            Performance
+            Email
+            Sms
+            Feedback
+            Rp
+            Coupons
+            Home
+
+
+
