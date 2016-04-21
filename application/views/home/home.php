@@ -198,11 +198,11 @@
 						<p><label>FREE</label> <span></span></p>
 					</div>
 					<ul>
-						<li>1-20 branches</li>
-						<li>Unlimited Forums</li>
-						<li>Unlimited Reports</li>
-						<li>10,000 Entries per Month</li>
-						<li>100 GB Storage</li>
+						<li>1 branches</li>
+						<li>10 Forums</li>
+						<li>50 Reports</li>
+						<li>500 Entries per Month</li>
+						<li>4 GB Storage</li>
 					</ul>
 					<div class="started"><a href="#">SIGN UP</a></div>
 				</div>
