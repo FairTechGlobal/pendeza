@@ -9,11 +9,6 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('example/basics/header');
-		$this->load->view('example/basics/side_menu');
-		$this->load->view('example/basics/top_navigation');
-		$this->load->view('example/stats');
-//		$this->load->view('example/sales_page',$data);
-		$this->load->view('example/basics/footer');
+		$this->load->view('home/home');
 	}
 }
